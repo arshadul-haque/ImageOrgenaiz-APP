@@ -55,7 +55,7 @@ Image Organizer is a desktop application for organizing and managing images into
 
 ## License
 
-This project includes Chromium and other open-source components. See [LICENSE](LICENSE) and [LICENSES.chromium.html](LICENSES.chromium.html) for details.
+This project includes Chromium and other open-source components. See [LICENSE](LICENSE) for details.
 
 ---
 
